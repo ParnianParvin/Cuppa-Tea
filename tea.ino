@@ -45,7 +45,7 @@ void loop() {
 
         digitalWrite(2,true);
   
-        delay(6e4);
+        delay(6e5);
         seq++;
         }
   
